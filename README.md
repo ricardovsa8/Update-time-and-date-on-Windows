@@ -1,8 +1,8 @@
 # Update-time-and-date-on-Windows
 Update time and date on Windows Server using PowerShell
 # Como ejecutarlo:
-- Descargar el archivo PS1 o transcribir el codigo del script
-- Guardar en el equipo donde va a ejecutar el script, en caso se transcribio el script se debe guardar con la extencioón .ps1
+- Descargar el archivo PS1 o copia el codigo del script
+- Guardar en el equipo donde va a ejecutar el script, en caso de copiar el script se debe guardar con la extencioón .ps1
 - Ejecutar el script en modo ADMINISTRADOR
 # Lo que hace:
   Detalles del script
